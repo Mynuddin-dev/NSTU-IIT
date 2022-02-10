@@ -1,7 +1,7 @@
 import random
 
 # Randomly take an temperature as input and check the Weather condition 
-# ccording to the temperature.After that AC is on 
+# According to the temperature After that AC is on 
 
 temperature = random.randint(10, 45)
 
