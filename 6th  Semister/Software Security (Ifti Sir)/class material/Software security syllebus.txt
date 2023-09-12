@@ -1,0 +1,34 @@
+Types of vibinno rokom maleware
+return to system call attack
+Operating system resource sharing segment protection 
+ki ki attack hoite pare jdi same os 2 jon eksathe use kore
+network security tcp/ip rules allow korbe ki korbe na ekta packet k ei dicission ta newa 
+jokhon ip address set kori (SMTP) decision xample in the books
+notun rules er khetre action ki hbe
+penetration testing network security scenario , ekta system e ki ki vulnarabilty ache
+
+Bangladesh bank hack korte hoile ki ki korte hbe(step) , smartly without any footprint
+intrusion detection technique kivabe kaj kore , ki , subidha , osubidha
+firewall charactaristics , packet filtering , ips vs firewall , access controll policy , 
+
+operating system bad ( only resource sharing , system call)
+
+malware(basics) bad  
+payload bad
+
+
+
+Boier pichoner excercise
+
+Overview
+Threats, Attacks, and Assets
+Security Functional Requirements
+Attack Surfaces and Attack Trees
+CIA with impact
+egula thek
+
+CIA 
+
+Race condition
+
+

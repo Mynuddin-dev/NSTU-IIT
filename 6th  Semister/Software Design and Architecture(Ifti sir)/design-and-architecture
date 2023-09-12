@@ -1,0 +1,24 @@
+1. kon pattern use korbo shetar jonno justification
+2. functional diagram -> data gula kivabe kondike jacche
+3. pattern gular(muti tier), kon case e konta use kortesi. oitar shubidha ki; oshubidha ki.
+4. database boolean algebra -> kivabe sql kaaj kore. step by step. emn kichu thakei.
+5. onek kichur concern issue gula mathay rakha.
+6. issue gula case by case handle kora.
+7. view point perspective.concurrentcy, developement etc.
+8. e commerce er joonno konta priority deoa uchit/set and keno.
+9. Styler pattern theke
+10. pyrian field valo kina, architechture ki.
+view point perspective, midddleware.(deoa hoy nai khub kichu)
+
+q hobei explanation type. kontar shubidha+oshubidha. pros and cons.
+architechture kaaj kore -> quality attribute (er konta ki, .)
+styler pattern
+multi dimension e deploy kora jaate possible hoy if needed. -> kon paatern use kora uchit.
+quality attribute. -> single core/multi core. -> kon pattern.
+aar pattern er pros n cons.
+reused drive apply korte chaile ki ki risk thakbe.
+invocation ki
+mvc er dynamic behave kmne kaaj kore.
+keno valo keno kharap, pros n cons ki ki.
+
+
