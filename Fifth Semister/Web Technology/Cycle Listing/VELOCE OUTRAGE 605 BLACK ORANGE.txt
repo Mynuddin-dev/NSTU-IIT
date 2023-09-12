@@ -1,0 +1,37 @@
+Brand or Name: Veloce
+Model Name : OUTRAGE 605 BLACK ORANGE
+34tk/hour
+Phone :01547142565
+
+
+Description:
+Frameset:
+Frame: 6061 alloy
+Color: Black Orange
+
+DriveTrain:
+Transmission: 27 Speed
+Front Derailleur: Shimano Altus M370
+Rear Derailleur: Shimano Alivio M-4000
+Shifter: Shimano Alivio M-4000
+Crank: Shimano MT 101
+Cassette: 9 Speed Shimano HG200
+
+Components:
+Handle Bar: 700mm Alloy
+Stem: Stock
+Suspension: SR Suntour XCR120mm Lock out.
+Headset: Veloce
+Brake set: Shimano MT-200
+Chain: KMC
+Pedal: Wellgo Alloy.
+Rim: 26” Double wall alloy.
+Seat post: Stock 27.2
+Hubs: Shimano TX 505 Central Lock.
+Grips: Meghna Lock out.
+
+Wheel Set:
+Tires: Schwalbe Smart Sam.
+Rotor: Shimano Front 180mm, rear 160 mm
+B.B: Thun
+Saddle: Veloce

@@ -1,0 +1,7 @@
+1.https://developer.mozilla.org/en-US/docs/Learn/Server-side/First_steps/Introduction
+2.https://careerkarma.com/blog/client-vs-server-side-development/
+
+3.Web service technology*****:
+https://docs.oracle.com/cd/E13224_01/wlw/docs100/guide/webservices/conBasicWebServiceTechnologies.html
+4. Web service : https://www.guru99.com/web-services-tutorial.html
+5.MVC : https://www.guru99.com/mvc-tutorial.html
